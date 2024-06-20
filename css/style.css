@@ -548,5 +548,10 @@ margin-top: 28px;
   text-decoration: underline;
 }
 
+@media only screen and (max-width:600px){
+  body{
+    width:100%;
+  }
+}
 
 /* The End */
